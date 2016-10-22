@@ -23,9 +23,9 @@ disqus:
   id:               "nostalgiadelreino"
 
 # URL
-url:                "https://juanignaciogil.github.io"
+url:                "https://juanignaciogil.github.io/"
 
-baseurl:            "/nostalgiadelreino"
+baseurl:            "/nostalgiadelreino/"
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
