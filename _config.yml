@@ -3,36 +3,33 @@
 # # # # # # # # # # # # #
 
 # Basic
-name:               "Kiko Plus"
+name:               "Nostalgia del Reino"
 
 
 
 author:
-  name:             your-name
-  facebook:         your-id
-  twitter:          your-id
-  github:           your-id
-  linkedin:         your-id
-  medium:           your-id
-  tumblr:           your-id
-  email:            your-id@your-email.com
+  name:             Juan Ignacio Gil Gómez
+  twitter:          JuanIgnacioGil
+  github:           JuanIgnacioGil
+  linkedin:         juanignaciogilgomez
+  email:            juan.ignacio.gil.gomez@gmail.com
 
 # Google-analytics
 google-analytics:
-  id:               ""
+  id:               "1911323"
 
 # Disqus
 disqus:
-  id:               "AWEEKJ"
+  id:               "nostalgiadelreino"
 
 # URL
-url:                "https://AWEEKJ.github.io"
+url:                "https://juanignaciogil.github.io"
 
-baseurl:            "/Kiko-plus"
+baseurl:            "/nostalgiadelreino"
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:           Asia/Seoul
+timezone:           Europe/London
 permalink:          /:year-:month-:day/:title/
 
 # Pagination
@@ -53,7 +50,7 @@ nav:
   - name:           "Tags"
     url:            "/tags"
   - name:           "Github"
-    url:            "https://github.com/AWEEKJ/Kiko-plus"
+    url:            "https://github.com/juanignaciogil/nostalgiadelreino"
 
 
 
