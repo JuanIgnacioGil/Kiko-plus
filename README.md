@@ -1,4 +1,4 @@
-# Kiko Plus Theme
+# Kiko Plus Theme (by Hanju Jo)
 
 ![image](/images/image.png)
 
