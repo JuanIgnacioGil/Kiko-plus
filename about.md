@@ -1,104 +1,17 @@
----
-title: About
-permalink: /about/
----
+¿Qué es en el fondo esa historia de encontrar un reino milenario, un edén, un otro mundo? Todo lo que se escribe en estos tiempos y que vale la pena leer está orientado hacia la nostalgia. Complejo de la Arcadia, retorno al gran útero, back to Adam, le bon sauvage (y van…), Paraíso perdido, perdido por buscarte, yo, sin luz para siempre… Y dale con las islas (cf. Musil) o con los gurús (si se tiene plata para el avión Paris-Bombay) o simplemente agarrando una tacita de café y mirándola por todos lados, no ya como una taza sino como un testimonio de la inmensa burrada en que estamos metidos todos, creer que ese objeto es nada mas que una tacita de café cuando el mas idiota de los periodistas encargados de resumirnos los quanta, Planck y Heisenberg, se mate explicándonos a tres columnas que todo vibra y tiembla y está como un gato a la espera de dar el enorme salto de hidrógeno o de cobalto que nos va a dejar a todos con las patas pare arriba. Grosero modo de expresarse, realmente.
 
-This blog is demo blog for [Kiko Plus](https://github.com/AWEEKJ/Kiko-plus)
+La tacita de café es blanca, el buen salvaje es marrón, Planck era un alemán formidable. Detrás de todo eso (siempre es detrás, hay que convencerse de que es la idea clave del pensamiento moderno) el Paraíso, el otro mundo, la inocencia hollada que oscuramente se busca llorando, la sierra de Hurqalya. De una manera u otra todos la buscan, todos quieren abrir la puerta pare ir a jugar. Y no por el Edén, no tanto por el Edén en si, sino solamente por dejar a la espalda los aviones a chorro, la cara de Nikita o de Dwight o de Charles o de Francisco, el despertar a campanilla, el ajustarse a termómetro y ventosa, la jubilación a patadas en el culo (cuarenta años de fruncir el baste pare que duela menos, pero lo mismo duele, lo mismo la punta del zapato entra cada vez un poco mas, a cada patada desfonda un momentito mas el pobre culo del cajero o del subteniente o del profesor de literatura o de la enfermera), y decíamos que el homo sapiens no busca la puerta para entrar en el reino milenario (aunque no estaría nada mal, nada mal realmente) sino solamente para poder cerrarla a su espalda y menear el culo como un perro contento sabiendo que el zapato de la puta vida se quedo atrás, reventándose contra la puerta cerrada, y que se puede ir aflojando con un suspiro el pobre botón del culo, enderezarse y empezar a caminar entre las florcitas del jardín y sentarse a mirar una nube nada mas que cinco mil años, o veinte mil si es posible y si nadie se enoja y si hay una chance de quedarse en el jardín mirando las florcitas.
 
-This theme is inspired by [Kiko](http://github.com/gfjaru/Kiko) theme, powered by [Jekyll](http://jekyllrb.com), hosted on [Github Pages](https://pages.github.com).
+De cuando en cuando entre la legión de los que andan con el culo a cuatro manos hay alguno que no solamente quisiera cerrar la puerta para protegerse de las patadas de las tres dimensiones tradicionales, sin contar las que vienen de las categorías del entendimiento, del mas que podrido principio de razón suficiente y otras pajolerias infinitas, sino que además estos sujetos creen con otros locos que no estamos en el mundo, que nuestros gigantes padres nos han metido en un corso a contramano del que habrá que salir si no se quiere acabar en una estatua ecuestre o convertido en abuelo ejemplar, y que nada esta perdido si se tiene por fin el valor de proclamar que todo esta perdido y que hay que empezar de nuevo como los famosos obreros que en 1907 se dieron cuenta una mañana de agosto de que el túnel del Monte Brasco estaba mal enfilado y que acabarían saliendo a mas de quince metros del túnel que excavaban los obreros yugoslavos viniendo de Dublivna. ¿Qué hicieron los famosos obreros? Los famosos obreros dejaron como estaba su túnel, salieron a la superficie, y después de varios días y noches de deliberaron en diversas cantinas del Piemonte, empezaron a excavar por su cuenta y riesgo en otra parte del Brasco, y siguieron adelante sin preocuparse de los obreros yugoslavos, llegando después de cuatro meses y cinco días a la parte sur de Dublivna, con no poca sorpresa de un maestro de escuela jubilado que los vio aparecer a la altura del cuarto de baño de su casa. Ejemplo loable que hubieran debido seguir los obreros de Dublivna (aunque preciso es reconocer que los famosos obreros no les habían comunicado sus intenciones) en vez de obstinarse en empalmar con un tunel inexistente, como es el caso de tantos poetas asomados con mas de medio cuerpo a la ventana de la sale de estar, a altas horas de la noche.
 
-## Features
+Y así uno puede reírse, y creer que no esta hablando en serio, pero si se esta hablando en serio, la risa ella sola ha cavado mas túneles útiles que todas las lágrimas de la tierra, aunque mal les sepa a los cogotudos empecinados en creer que Melp6mene es mas fecunda que Queen Mab. De una vez por todas seria bueno ponernos de desacuerdo en esta materia. Hay quizá una salida, pero esa salida debería ser una entrada. Hay quizá un reino milenario, pero no es escapando de una carga enemiga que se tome por asalto una fortaleza. Hasta ahora este siglo se escape de montones de cosas, busca las puertas y a veces las desfonda. Lo que ocurre después no se sabe, algunos habrán alcanzado a ver y han perecido, borrados instantáneamente por el gran olvido negro, otros se han conformado con el escape chico, la casita en las afueras, la especializaci6n literaria o científica, el turismo. Se planifican los escapes, se los tecnologiza, se los arma con el Modulor o con la Regla de Nylon. Hay imbéciles que siguen creyendo que la borrachera puede ser un metodo, o la mescaline o la homosexualidad, cualquier cosa magnifica o inane en sí pero estúpidamente exaltada a sistema, a llave del reino. Puede ser que haya otro mundo dentro de este, pero no lo encontraremos recortando su silueta en el tumulto fabuloso de los diez y las vidas, no lo encontraremos ni en la atrofia ni en la hipertrofia. Ese mundo no existe, hay que crearlo como el fénix. Ese mundo existe en este, pero como el agua existe en el oxigeno y el hidrogeno, o como en las paginas 78, 457, 3, 271, 688, 75 y 456 del diccionario de la Academia Española esta lo necesario pare escribir un cierto endecasílabo de Garcilaso. Digamos que el mundo es una figure, hay que leerla. Por leerla entendamos generarla. ¿A quién le importa un diccionario por el diccionario mismo? Si de delicadas alquimias, osmosis y mezclas de simples surge por fin Beatriz a orillas del río, ¿cómo no sospechar maravilladamente lo que a su vez podría nacer de ella? Que inútil tarea la del hombre, peluquero de si mismo, repitiendo hasta la nausea el recorte quincenal, tendiendo la misma mesa, rehaciendo la misma cosa, comprando el mismo diario, aplicando los mismos principios a las mismas coyunturas. Puede ser que haya un reino milenario, pero si alguna vez llegamos a el, si somos el, ya no se llamara así. Hasta no quitarle al tiempo su látigo de historia, hasta no acabar con la hinchazón de tantos hasta, seguiremos tomando la belleza por un fin, la paz por un desideratum, siempre de este lado de la puerta donde en realidad no siempre se esta mal, donde mucha gente encuentra una vida satisfactoria, perfumes agradables, buenos sueldos, literatura de alta calidad, sonido estereofónico, y por qué entonces inquietarse si probablemente el mundo es finito, la historia se acerca al punto optimo, la raza humana sale de la edad media pare ingresar en la era cibernética. Tout va tres bien, madame la Marquise, tout va tres bien, tout va tres bien.
 
-- Disqus comment system
-- Google analytics
-- Pagination support
-- Custom tags
-- SEO support
+Por lo demás hay que ser imbécil, hay que ser poeta, hay que estar en la luna de Valencia para perder mas de cinco minutos con estas nostalgias perfectamente liquidables a corto plazo. Cada reunión de gerentes internacionales, de hombres-de-ciencia, cada nuevo satélite artificial, hormona o reactor atómico aplastan un poco mas estas falaces esperanzas. E1 reino será de material plástico, es un hecho. Y no que el mundo haya de convertirse en una pesadilla orwelliana o huxleyana; será mucho peor, sera un mundo delicioso, a la medida de sus habitantes, sin ningún mosquito, sin ningún analfabeto, con gallinas de enorme tamaño y probablemente dieciocho patas, exquisitas todas ellas, con cuartos de baño telecomandados, agua de distintos colores según el día de la semana, una delicada atención del servicio nacional de higiene, con televisión en cada cuarto, por ejemplo grandes paisajes tropicales pare los habitantes del Reijavik, vistas de igloos pare los de La Habana, compensaciones sutiles que conformaran sodas las rebeldías, etcétera.
+
+Es decir un mundo satisfactorio pare gentes razonables.
+¿Y quedará en el alguien, uno solo, que no sea razonable?
+
+En algún rincón, un vestigio del reino olvidado. En alguna muerte violenta, el castigo por haberse acordado del reino. En alguna risa, en alguna lagrima, la sobrevivencia del reino. En el fondo no parece que el hombre acabe por matar al hombre. Se le va a escapar, le va a agarrar el timón de la maquina electrónica, del cohete sideral, le va a hacer una zancadilla y después que le echen un galgo. Se puede matar todo menos la nostalgia del reino, la llevamos en el color de los ojos, en cada amor, en todo lo que profundamente atormenta y desata y engaña. Wishful thinking, quizá; pero esa es otra definición posible del bípedo implume.
 
 
-## Installation
-
-#### Method 1: new master's repository (The Best)
-
-1. First [fork](https://github.com/AWEEKJ/Kiko-plus/fork) it.
-2. Change your forked repository name _Kiko-plus_ to __USERNAME.github.io__ where
-   __USERNAME__ is your github user name.
-3. Access your new blog via [https://username.github.io](https://username.github.io).
-4. [See configuration](#configuration).
-
-#### Method 2: gh-pages in existing repository
-
-1. Create a new branch called _gh-pages_ in the repository where you want to add a template [managing branches](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/).
-2. From command line run `git clone https://github.com/AWEEKJ/Kiko-plus.git` - this will clone _Kiko-plus_ template to your computer.
-3. Create new branch `git checkout -b gh-pages` where _gh-pages_ will be your branch name.
-4. Add remote, which is your repo from the first step, to your new branch `git remote add gh-pages https://github.com/<yourName>/<yourMaster>/gh-pages`. _yourName_ is your account name and _yourMaster_ is your repository.
-5. Push new branch to remote `git push gh-pages`.
-6. Update `_config.yml` file by changing `baseurl: "<branchName>"` _branchName_ is your branch name where _gh-pages_ resides. See [configuration](#configuration).
-
-#### Method 3: run it locally
-
-1. Download [zip](https://github.com/AWEEKJ/Kiko-plus/archive/master.zip) or clone it `git clone https://github.com/AWEEKJ/Kiko-plus`.
-2. Go inside folder and run `jekyll serve` or `bundle exec jekyll s` or `rake preview`. This will build a website which you can access [https://localhost:4000](https://localhost:4000). You need to have [Jekyll](https://jekyllrb.com/docs/installation/) installed to do this.
-
-
-## Configuration
-
-All configuration is done via `_config.yml` file which you will find in your main repo folder. Change this `<something>` to yours.
-
-- Change this to your blog name.
-
-```yml
-name: <blog-name>
-```
-
-- Change this to your domain. **NOTE**- if running locally change this to `url: "https://localhost:4000"`.
-
-```yml
-url: "https://<your-name>.github.io"
-```
-
-- Change this to your branch name where _gh-pages_ resides. !NOTE apply only if you used __Method 2__ for installation.
-
-```yml
-baseurl: "/<branch-name>"
-```
-
-- These configuration in `author:` is for links to icons in footer. Modify `_includes/footer.html` to add more link icons.
-
-```yml
-author:
-  name:             your-name
-  facebook:         your-id
-  twitter:          your-id
-  github:           your-id
-  linkedin:         your-id
-  medium:           your-id
-  tumblr:           your-id
-  email:            your-id@your-email.com
-```
-
-- Change this to your Google Analytic ID.
-
-```yml
-google-analytics:
-  id:               your-id
-```
-
-- Change this to your Disqus ID.
-
-```yml
-disqus:
-  id:               your-id
-```
-
-## Rakefile Usage
-
-```bash
-$ rake post title="A Title" [date="2015-08-16"] [tags=[tag1,tag2]]
-$ rake draft title="A Title" [date="2015-08-16"] [tags=[tag1,tag2]]
-$ rake preview
-```
-
-## License
-
-This theme is released under MIT License.
+**Julio Cortázar**, *Rayuela, Capítulo 71*, 1963
