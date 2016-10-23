@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Daniel Blake"
-description: "Vi anoche la magnífica [*I, Daniel Blake*](https://www.theguardian.com/film/i--daniel-blake), de [Ken Loach](https://es.wikipedia.org/wiki/Ken_Loach). Al salir del cine, el terrible contraste del Londres de cada día, del que ya escribiré en su momento, estaba más presente que nunca: el lujo, las multitudes bien vestidas, bien alimentadas, que salen a gastar cantidades absurdas de dinero en entretenerse (entre ellos me cuento yo), y la otra multitud, la invisible, la de los mendigos durmiendo en la calle, más que en otras grandes ciudades europeas, y muchos de ellos jóvenes, muy jóvenes."
+description: "Vi anoche la magnífica 'I, Daniel Blake', de Ken Loach. Al salir del cine, el terrible contraste del Londres de cada día, del que ya escribiré en su momento, estaba más presente que nunca: el lujo, las multitudes bien vestidas, bien alimentadas, que salen a gastar cantidades absurdas de dinero en entretenerse (entre ellos me cuento yo), y la otra multitud, la invisible, la de los mendigos durmiendo en la calle, más que en otras grandes ciudades europeas, y muchos de ellos jóvenes, muy jóvenes."
 date: 2016-10-23
 tags: [cine, sociedad, economía, renta básica]
 comments: true
