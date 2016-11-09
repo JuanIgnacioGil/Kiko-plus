@@ -18,7 +18,7 @@ No se vota al fascismo porque el sistema te falle. Ni tampoco por ignorancia. Se
 <!--more-->
 
 
-No podemos decir: *No te preocupes, no eres racista, todo está bien, tenías tus razones para votar así, el sistema te ha maltratado*. No es así. Desde el momento en que votas a alguien como Trump, sí eres un racista, y no tienes excusa y justificación posible. Y si no quieres serlo, debes cambiarte a ti mismo y dejar de actuar como tal. Pero para eso tienes que admitir lo que eres. Y quizás necesites que alguien te lo diga.
+No podemos decir: *No te preocupes, no eres racista, todo está bien, tenías tus razones para votar así, el sistema te ha maltratado*. No es así. Desde el momento en que votas a alguien como Trump, sí eres un racista, y no tienes excusa ni justificación posible. Y si no quieres serlo, debes cambiarte a ti mismo y dejar de actuar como tal. Pero para eso tienes que admitir lo que eres. Y quizás necesites que alguien te lo diga.
 
 Tampoco es moralmente válido el intentar aprovechar este voto para llevarlo a tu terreno, como ha hecho parte de la izquierda. Pretender que la gente vota a un candidato fascista porque no le gusta la derecha es una terrible frivolidad. Pretender, como muchos pretenden, que Trump y Clinton eran iguales, es monstruoso. Cuando te importa más el izquierdismo que la democracia, te conviertes en un cómplice del fascismo.
 
