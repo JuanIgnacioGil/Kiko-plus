@@ -9,7 +9,7 @@ share: true
 excerpt_separator: <!--more-->
 ---
 
-![T'ung jen]({{ site.url }}/images/St-James.png)
+![Saint James Park]({{ site.url }}/images/St-James.png)
 
 Escribía hace poco de qué tal vez algunos sueños no estén para ser cumplidos, que hay horizontes que quizás no hay que alcanzar. Un triste presentimiento, porque ha sido. Londres, mi ciudad soñada desde hacía tantos años, me ha roto el corazón.
 
