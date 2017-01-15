@@ -19,6 +19,8 @@ Se enamoró de L. desde el momento en que la vio por primera vez, a la salida de
 
 L. era todo lo que siempre había soñado y admirado: hermosa (más elegante que guapa, en realidad), moderna, sofisticada, libre, divertida. Se encontraron muchas veces a lo largo de los años, y él seguía loco por ella. Esos momentos que podía pasar a su lado le llenaban de felicidad, y la idea de estar con ella le perseguía, pero el sentimiento no parecía mutuo. Muchas veces le llamó, pero no habo manera, ni tan siquiera una primera cita. Sabía ya, tras los primeros desengaños de la vida, que muchos sueños no se cumplen nunca, por mucho que te esfuerces. Lo que aún no había aprendido, era que algunos no debían cumplirse.
 
+<!--more-->
+
 ***
 
 Con V. había coincidido un par de veces, una de ellas por placer, otra por trabajo. Era una chica bellísima y culta, apasionada por la mñusica, de una familia de la aristocracia de provincias. Él la consideraba anticuada y aburrida. Años después, ya bien entrados en la treintena, fue ella quien le llamó, proponiéndole quedar para cenar. Al principio le sorprendió, pero, ¿por qué no?. Salieron juntos durante unos meses, y se fueron a vivir juntos. Él no dejó de sentirse sorprendido, y no del todo seguro de lo que quería. También le soprendió descubrir que la amaba, que adoraba su delicadeza, su sencillez, su belleza, su carácter tranquilo y alegre, que nunca había sido tan feliz en su vida, que lo que pensaba que sería una relación pasajera podría ser para siempre.
