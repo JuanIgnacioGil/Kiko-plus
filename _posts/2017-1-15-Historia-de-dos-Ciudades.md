@@ -13,13 +13,13 @@ excerpt_separator: <!--more-->
 
 *(Esta es una historia real. Se puede amar a ciudades, como se ama a personas. Y pueden, al igual que las personas, romperte el corazón. O más bien, como con las personas, lo rompemos nosotros mismos, por nuestros errores, por no saber lo que realmente anhelaba.)*
 
+<!--more-->
+
 ***
 
 Se enamoró de L. desde el momento en que la vio por primera vez, a la salida del metro. Estaba allí, esperando a él y a sus amigos, con los que había quedado. Eran todavía muy jóvenes, recién terminada la Universidad, con toda una vida por delante. Pero, en ese primer momento, supo, o eso creía él, que la amaría siempre.
 
 L. era todo lo que siempre había soñado y admirado: hermosa (más elegante que guapa, en realidad), moderna, sofisticada, libre, divertida. Se encontraron muchas veces a lo largo de los años, y él seguía loco por ella. Esos momentos que podía pasar a su lado le llenaban de felicidad, y la idea de estar con ella le perseguía, pero el sentimiento no parecía mutuo. Muchas veces le llamó, pero no habo manera, ni tan siquiera una primera cita. Sabía ya, tras los primeros desengaños de la vida, que muchos sueños no se cumplen nunca, por mucho que te esfuerces. Lo que aún no había aprendido, era que algunos no debían cumplirse.
-
-<!--more-->
 
 ***
 
