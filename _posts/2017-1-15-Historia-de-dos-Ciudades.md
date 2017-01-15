@@ -11,7 +11,7 @@ excerpt_separator: <!--more-->
 
 ![V. y L.]({{ site.url }}/images/Wien_London.png)
 
-*(Esta es una historia real. Se puede amar a ciudades, como se ama a personas. Y pueden, al igual que las personas, romperte el corazón. O más bien, como con las personas, lo rompemos nosotros mismos, por nuestros errores, por no saber lo que realmente anhelaba.)*
+*(Esta es una historia real. Se puede amar a ciudades, como se ama a personas. Y pueden, al igual que las personas, romperte el corazón.)*
 
 <!--more-->
 
