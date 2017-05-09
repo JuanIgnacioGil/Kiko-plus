@@ -15,9 +15,10 @@ excerpt_separator: <!--more-->
 
 Dante, *Divina Comedia*
 
-<br><br>
 
 Mi padre siempre ha lamentado el haber dejado la Marina. Pasó allí varios años, sin lograr adaptarse a la disciplina militar, y, finalmente, la abandonó por una carrera, en Correos, que nunca le satisfizo. Y esa decisión, el dejar la Marina, es tal vez el gran *y si...* de su vida, la intersección donde cree que tomó el camino equivocado (yo, claro, no acabo de compartirlo: de haber tomado la otra ruta, mis padres nunca se hubieran conocido, y yo no habría nacido. Mi padre me dijo una vez que habría conocido a mi madre de todas formas, y que yo sí habría nacido, sólo que en otro lugar. Lo dudo, pero, en cualquier caso, él está en su derecho a lamentar sus decisiones, aunque el fruto indirecto fuera yo).
+
+<!--more-->
 
 ***
 
