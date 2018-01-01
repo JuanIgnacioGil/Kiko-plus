@@ -12,7 +12,7 @@ El 2017 ha sido un año extraño, y difícil, regresando a Madrid, y pensando de
 
 ## [Toni Erdmann](http://www.imdb.com/title/tt4048272/), de Maren Ade ##
 
-<img src="https://lh5.googleusercontent.com/VZPSggpROVbsTl2wWDhSZPSBrbxrAfv0LoSFqdq1TO743Zlvvak5djv4PPBfF2zXFWngoXUZEmqMeXWBAJc_=w1225-h743">
+![Toni Erdmann](https://lh5.googleusercontent.com/VZPSggpROVbsTl2wWDhSZPSBrbxrAfv0LoSFqdq1TO743Zlvvak5djv4PPBfF2zXFWngoXUZEmqMeXWBAJc_=w1225-h743)
 
 En su momento, a finales del 2016 (¡qué lejano parece ese *finales del 2016*!), me parecía incomprensible el [éxito](https://elpais.com/cultura/2016/12/10/actualidad/1481407760_873774.html) de *Toni Erdmann* en los Premios del Cine Europeo, arrasando, frente a una joya como era [*I, Daniel Blake*](http://www.imdb.com/title/tt5168192/), tras de verla no me quedaron muchas dudas de la justicia del premio.
 
@@ -20,12 +20,12 @@ El argumento es el de una comedia tonta que hemos visto mil veces en el cine de 
 
 ## [La fille inconnue](http://www.imdb.com/title/tt4630550/), de los hermanos Dardenne ##
 
-<img src="https://lh4.googleusercontent.com/d-UXpTZIU_qNhtFOGUrxwbhuPYNfHLKls9encnp1XzQCBG1lkT4bxO8kpEP5jVWTWFfeLuWFLuiFVR4=w1225-h743">
+![La Fille inconnue](https://lh4.googleusercontent.com/d-UXpTZIU_qNhtFOGUrxwbhuPYNfHLKls9encnp1XzQCBG1lkT4bxO8kpEP5jVWTWFfeLuWFLuiFVR4=w1225-h743)
 
 Una magnífica película sobre la responsabilidad, y sobre como todos podemos cometer errores terribles, y cómo la diferencia la marca el cómo reaccionamos a ellos.
 
-## [The Last Jedi](https://en.wikipedia.org/wiki/Star_Wars:_The_Last_Jedi), de Rian Johnson ##
+## [The Last Jedi](https://en.wikipedia.org/wiki/Star_Wars:_The_Last_Jedi) , de Rian Johnson ##
 
-<img src="https://lh6.googleusercontent.com/BCNwQ_V01H57SxpkAD-Dfo72_FsMKk6SFCfptsUNNWmKzWMOwwxwfDLQyQ9XG-OBfPhopVB34ay8kVc=w1225-h743">
+![The Last Jedi](https://lh4.googleusercontent.com/z8nzcYoCcSe56XqkxaC0So_XRplTfNFJgRzX_4rFocFOcnmXIeOqwo3_6W8E0RdLCViMjzeds0aM518=w1225-h743)
 
 En un año tan duro como el 2017 no sé si habría podido soportar que terminara con una mala película de Star Wars. Afortunadamente, no tuve que hacerlo. Rian Johnson ha logrado estar a la altura del mito, y, sobre todo, ha logrado personajes cuyo carisma esté a la altura de aquellos con los que crecimos (en eso Lucas fracasó estrepitosamente en las precuelas).
