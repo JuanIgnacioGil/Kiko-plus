@@ -29,7 +29,7 @@ veces a quién habría votado en primera ronda (mi candidato natural habría sid
 A mis cuarenta y uno, no he hecho todavía ese viaje a la derecha que muchos
 han hecho a estas edades. Me gusta pensar que a estas alturas ya no lo haré,
 pero quien sabe. Lo que sí he hecho es cambiar de opinión sobre muchas cosas.
-Y saber que, si antes pesaba de una forma y ahora pienso de otra, es que antes
+Y saber que, si antes pensaba de una forma y ahora pienso de otra, es que antes
 estaba equivocado, lo estoy ahora (o, posiblemente, lo estuviera en ambos
   casos). Y saber que ese *estar equivocado* es algo profundamente humano, y
   que debe ser un derecho. Y ese saber que puedes cambiar de opinión, debe
@@ -85,8 +85,8 @@ izquierda frente a derecha (porque la derecha parece haber vencido, porque la
     está, sin ninguna duda, en el segundo) defienden una sociedad terriblemente
     injusta, bien desde el punto de vista social (el odio a inmigrantes, a todo
       el que sea diferente) o económico (ese neo feudalismo del 1%, de los
-        millonarios de internet, donde la clase media no tiene ya lugar salvo
-        malvivir y ver series online). Necesitamos
+        millonarios de internet, donde la clase media no tiene ya lugar más que
+        malviviendo y viendo series online). Necesitamos
 una izquierda que recupere toda la
 iniciativa perdida y defienda este hogar global, que pierda los complejos, que vuelva a soñar con un mundo
-nuevo, mejor , y más justo.
+nuevo, mejor y más justo.
