@@ -3,16 +3,23 @@ layout: post
 title: "Segundas oportunidades"
 description: "De mi regreso a Londres"
 date: 2018-7-25
-tags: [vivir][Londres]
+tags: [vivir, Londres]
 comments: true
 share: true
 ---
 
-<p>
+<blockquote class="twitter-tweet" data-lang="en">
+<p lang="es" dir="ltr">Inés Arrimadas no representa a los catalanes.
+ Representa a un grupo de españoles que viven en Catalunya sin emoción.
+ Muchos ni hablan ni quieren hablar catalán. Mucho pijo mantenido de
+ zona alta ex-votante del PP y mucho inadaptado social que no se integra
+ <a href="https://twitter.com/hashtag/IgnoraArrimadas?src=hash&amp;ref_src=twsrc%5Etfw">
+ #IgnoraArrimadas</a></p>&mdash; Víctor Riverola (@VMatterfilm)
+ <a href="https://twitter.com/VMatterfilm/status/1020940850786983936?ref_src=twsrc%5Etfw">
+ July 22, 2018</a></blockquote>
+ <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="es" dir="ltr">Inés Arrimadas no representa a los catalanes. Representa a un grupo de españoles que viven en Catalunya sin emoción. Muchos ni hablan ni quieren hablar catalán. Mucho pijo mantenido de zona alta ex-votante del PP y mucho inadaptado social que no se integra <a href="https://twitter.com/hashtag/IgnoraArrimadas?src=hash&amp;ref_src=twsrc%5Etfw">#IgnoraArrimadas</a></p>&mdash; Víctor Riverola (@VMatterfilm) <a href="https://twitter.com/VMatterfilm/status/1020940850786983936?ref_src=twsrc%5Etfw">July 22, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<p/>
+<br/>
 
 Leía hoy en Twitter a un nacionalista catalán quejándose de quien vivía
 en Cataluña *sin emociones*. La absurdez de la idea, es, por supuesto,
@@ -38,4 +45,6 @@ Y ahora la vida me da lo que no puede ser sino una segunda oportunidad,
 para reconciliarme con Londres, pero, sobre todo, para aprender a *vivir sin
 emociones*, o, al menos, sin excesos, a disfrutar de nuestros paseos,
 de sus restaurantes, ir al teatro, ser un *pijo mantenido de zona alta*
-*inadaptado social que no se integra*. Simplemente vivir. *Μηδὲν ἄγαν*
+*inadaptado social que no se integra*. Simplemente vivir.
+
+*Μηδε&#768;ν &#768;&#7936;γαν*
