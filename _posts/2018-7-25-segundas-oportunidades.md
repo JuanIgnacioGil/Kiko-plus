@@ -49,5 +49,3 @@ para reconciliarme con Londres, pero, sobre todo, para aprender a *vivir sin
 emociones*, o, al menos, sin excesos, a disfrutar de nuestros paseos,
 de sus restaurantes, ir al teatro, ser un *pijo mantenido de zona alta*
 *inadaptado social que no se integra*. Simplemente vivir.
-
-*Μηδε&#768;ν &#768;&#7936;γαν*
