@@ -6,6 +6,7 @@ date: 2018-7-25
 tags: [vivir, Londres]
 comments: true
 share: true
+excerpt_separator: <!--more-->
 ---
 
 <blockquote class="twitter-tweet" data-lang="en">
@@ -31,6 +32,8 @@ manifiesta: el que es
   política de tu ciudad (yo me emociono mucho en las Olimpiadas, pero
     eso no influye en nada en mi sueño de ver al estado estañol disolverse en
     una federación europea o mundial).
+
+<!--more-->
 
 Pero pensaba sobre todo a que eso, a *vivir sin emociones* es a lo
 yo aspiro ahora, que regreso a Londres. Amé enloquecidamente esa ciudad
