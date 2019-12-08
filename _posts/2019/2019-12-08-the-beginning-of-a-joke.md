@@ -9,11 +9,16 @@ share: true
 ---
 
 >Nel mezzo del cammin di nostra vita
+>
 >mi ritrovai per una selva oscura,
+>
 >hé la diritta via era smarrita.
 >
+>
 >Ahi quanto a dir qual era è cosa dura
+>
 >esta selva selvaggia e aspra e forte
+>
 >che nel pensier rinova la paura!
 
 *Dante, Divina Comedia, Canto I*
