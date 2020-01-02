@@ -2,7 +2,7 @@
 layout: post
 title: "Las Películas del 2019"
 description: "Mis películas favoritas del 2019"
-date: 2019-01-03
+date: 2020-01-02
 tags: [cine]
 comments: true
 share: true
